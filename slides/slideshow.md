@@ -95,7 +95,7 @@ Instead of using a for loop, we call next() on the iterator object
 * Because you have a complex function that needs to maintain an internal state every time it’s called.
 ---
 
-# How to create a generator 1/2 ?
+# How to create a generator 1/3 ?
 
 To create a generator you have to use `yield` statement.
 
@@ -111,7 +111,7 @@ print(next(data))
 *a `return` statement terminates a function, `yield` statement pauses the function saving its states and later continues from there on successive calls*
 
 ---
-# How to create a generator 2/2?
+# How to create a generator 2/3?
 
 Generators can be easily created on the fly using generator expression
 
@@ -123,8 +123,15 @@ def simple_generator_expr():
 The syntax is similar to that of a list in Python. But the square brackets `[]` are replaced with round parentheses `()`.
 
 ---
+# How to create a generator 3/3?
 
-# Profiling Generator Performance
+More example in the repository 
+
+https://github.com/sfinx13/demo-generator
+
+---
+
+# Profiling generator performance
 In the slide before, we mention generator is a great way to optimize memory
 
 So let's profile with `sys.getsizeof()`

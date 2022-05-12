@@ -16,7 +16,7 @@ Demo made with python language
 
 * What is a generator ?
 
-* Can we should talk iterator first ?
+* Can we talk iterator first ?
 
 * Why you should use it ?
 

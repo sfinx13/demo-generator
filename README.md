@@ -14,7 +14,7 @@ https://sfinx13.github.io/demo-generator/
 
 * What is a generator ?
 
-* Can we should talk iterator first ?
+* Can we talk iterator first ?
 
 * Why you should use it ?
 

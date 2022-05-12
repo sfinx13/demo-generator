@@ -31,7 +31,7 @@ Demo made with python language
 
 Introduced with [PEP 255](https://peps.python.org/pep-0255/), generator are a special kind of object implementing iterator
 
-An iterator object implements thses methods:
+An iterator object implements theses methods:
 
 | Methods        |   Description           |
 ----------|--------------|

@@ -3,7 +3,6 @@ import sys
 def csv_reader(file_name):
     file = open(file_name, 'r')
     result = file.read().split('\n')
-    
     return result
 
 def csv_reader_generator(file_name):

@@ -1,7 +1,7 @@
 
 # Generator : *yield statement*
 
-Demo made with python language
+Demo code made with python language
 
 ----
 # Overview
@@ -19,3 +19,8 @@ Demo made with python language
 * Profiling Generator Performance.
 
 # Demo
+
+Link: https://sfinx13.github.io/demo-generator/
+
+Slides made with marp-app https://github.com/marp-team/marp
+

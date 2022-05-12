@@ -142,7 +142,7 @@ print(sys.getsizeof(nums_squared_gc))
 ---
 # Conclusion
 
-You have learned about generator functions and generator expressions by knowing the benefit
+You have learned about generator functions and generator expressions by knowing the benefits
 
 ## Links
 * https://docs.python.org/3/glossary.html#term-generator

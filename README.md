@@ -3,7 +3,13 @@
 
 Demo code made with python language
 
-# Demo
+```bash
+$ python 1-odd_iterator.py
+$ python 2-simple_generator.py
+$ python 3-file_generator.py
+```
+
+# Slideshow presentation
 
 https://sfinx13.github.io/demo-generator/
 
@@ -22,6 +28,6 @@ https://sfinx13.github.io/demo-generator/
     - `yield` statement
     - `()` expression
 
-* Profiling Generator Performance.
+* Profiling generator performance.
 
 Slides made with marp-app https://github.com/marp-team/marp

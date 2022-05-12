@@ -3,6 +3,12 @@
 
 Demo code made with python language
 
+# Demo
+
+https://sfinx13.github.io/demo-generator/
+
+![Demo slide](__DOC/presentation.jpg)
+
 ----
 # Overview
 
@@ -18,9 +24,4 @@ Demo code made with python language
 
 * Profiling Generator Performance.
 
-# Demo
-
-Link: https://sfinx13.github.io/demo-generator/
-
 Slides made with marp-app https://github.com/marp-team/marp
-
